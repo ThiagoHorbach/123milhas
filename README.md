@@ -2,7 +2,7 @@
     Teste 123milhas feito por Thiago Horbach
 </p>
 <p>
-    O link para acesso à implementação sendo executada está <a href="https://www.deliciasmoni.com.br/123milhas/server.php">Aqui</a>.
+    O link para acesso à implementação sendo executada está <a href="https://www.deliciasmoni.com.br/123milhas/server.php" target="_blank">Aqui</a>(https://www.deliciasmoni.com.br/123milhas/server.php).
 </p>
 <p>
    Foi realizado a consulta na api disponibilizada pela 123milhas com os dados dos voos, foi agrupado com base nos criterios solicitados e listado em ordem decrescente de valor total, gerando também um id único para o grupo. Cada grupo dispõe apenas dos mesmos tipos de voos(também como solicitado) e um grupo pode conter mais de um voo, desde que os preços não sejam diferentes.
